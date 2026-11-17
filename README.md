@@ -14,6 +14,7 @@ immutable tag with Subresource Integrity (SRI).
 | v2.4.16 | `gate-v2.4.16.js` (42,157 bytes) | `sha256-cb0zrrfc3YTtBi+lzxQ5ugLowgi5/X98bGyLHdnecTs=` |
 | v2.4.17 | `gate-v2.4.17.js` (44,224 bytes) | `sha256-sPzcCvpce+Eg2dymcsnIY9qQDorVfh0eymCyT8It7jg=` |
 | v2.4.18 | `gate-v2.4.18.js` (47,195 bytes) | `sha256-4QncFNyEHd+q/Ib9disIhgQyuaafyux7nrcRwhh7okg=` |
+| v2.4.19 | `gate-v2.4.19.js` (50,723 bytes) | `sha256-v7WwvFeBpeqo/e2CjYoxP9zkpV8P1aRPRHift++J3cE=` |
 
 Each file's header comment lists what changed in that version.
 
@@ -21,8 +22,8 @@ Each file's header comment lists what changed in that version.
 
 ```html
 <script
-  src="https://cdn.jsdelivr.net/gh/ai20/aisellshomes-gate@v2.4.18/gate-v2.4.18.js"
-  integrity="sha256-4QncFNyEHd+q/Ib9disIhgQyuaafyux7nrcRwhh7okg="
+  src="https://cdn.jsdelivr.net/gh/ai20/aisellshomes-gate@v2.4.19/gate-v2.4.19.js"
+  integrity="sha256-v7WwvFeBpeqo/e2CjYoxP9zkpV8P1aRPRHift++J3cE="
   crossorigin="anonymous"></script>
 ```
 
